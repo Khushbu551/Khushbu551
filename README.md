@@ -1,3 +1,5 @@
+![MasterHead](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)
+
 <h1 align="center">Hi 👋, I'm khushbu</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img aling="right" alt="coding" width="400" src="https://camo.githubusercontent.com/06fa7a9aa91a074222a5be8b70cf36b49f5c5021c518bac26263809d7ef4883c/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966"
