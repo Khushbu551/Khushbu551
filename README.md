@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)
+![MasterHead](https://github.com/Khushbu551/Khushbu551/blob/main/New%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm khushbu</h1>
 <h3 align="center">A passionate frontend developer</h3>
