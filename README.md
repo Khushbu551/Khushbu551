@@ -5,9 +5,9 @@
 Constantly learning, creating and turning ideas into meaningful digital experiences</p>
 <h3 align="center">A passionate frontend developer</h3>
 <img aling="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/20967361/file/original-ac994ae3bd1b0f083a1203b77917a16b.gif"
-- 🌱 I’m currently learning **HTML,CSS, JavaScript etc.**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">🌱 I’m currently learning **Python**</h3>
 <p align="left">
 </p>
 
