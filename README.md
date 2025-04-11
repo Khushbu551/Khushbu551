@@ -22,13 +22,13 @@ Constantly learning, creating and turning ideas into meaningful digital experien
  <h3 align="center"> 📊 GitHub Stats: </h3>
 
 <p align="center">
-<a href="https://github.com/khushbu551">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushbu551&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="250"/>
-</a>
 
-<a href="https://github.com/khushbu551">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushbu551&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="250"/>
+
+
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=khushbu551&theme=calm&hide_border=false" width="290"/>
-</a>
+
 </p>
 
 
